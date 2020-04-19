@@ -1,0 +1,19 @@
+git init
+git status
+git addd
+git commit
+
+git log
+git show
+git diff
+
+working directory
+staging area
+git repository
+
+git checkout
+git rest
+
+git checkout -b <branch> (branching)
+git checkout <branch>
+git merge
